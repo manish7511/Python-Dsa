@@ -11,6 +11,14 @@
 # print(list)
 l=[1,2,3,4,3,3,2,3]
 
-# a=l.count(3)
-a=l.extend(1,3)
+a=l.count(3)
 print(a)
+
+"""
+copy()
+insert()
+extend()
+pop()
+
+
+"""

@@ -9,3 +9,11 @@ temp[2]="finland"     #change item
 countries=tuple(temp)
 print(countries)
 print(type(countries))
+
+
+'''
+count()
+index()
+len()
+
+'''
